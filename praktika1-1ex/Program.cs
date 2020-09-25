@@ -1,4 +1,7 @@
-﻿namespace praktika1_1ex
+using System;
+
+
+namespace praktika1_1ex
 {
   class Program
   {
