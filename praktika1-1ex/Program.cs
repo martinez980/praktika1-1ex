@@ -1,6 +1,5 @@
 using System;
 
-
 namespace praktika1_1ex
 {
   class Program
